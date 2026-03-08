@@ -21,8 +21,6 @@ Where:
 
 
 
-[Image of A* search algorithm flowchart]
-
 
 ---
 
