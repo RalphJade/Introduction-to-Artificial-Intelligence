@@ -1,4 +1,4 @@
-# Introduction to Artificial Intelligence - Core Algorithms
+# Introduction to Artificial Intelligence CS17a
 
 ## 📂 Algorithms & Examples
 
